@@ -1,0 +1,11 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    background-image: url("../src/Assets/Images/background.jpg");
+
+}
+
+a {
+    color: blue;
+}
+
